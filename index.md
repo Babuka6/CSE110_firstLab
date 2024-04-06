@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! I'm Anthony Chapov, a Computer Science Student with a passion for AI technologies and challenging classes.
+Hello there! I'm *Anthony Chapov*, a Computer Science Student with a passion for AI technologies and challenging classes.
 
 ![Alt text](myPicture.PNG)
 
