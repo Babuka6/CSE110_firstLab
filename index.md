@@ -7,7 +7,7 @@ Hello there! I'm *Anthony Chapov*, a Computer Science Student with a passion for
 
 ![Alt text](myPicture.PNG)
 [LinkedIn](https://www.linkedin.com/in/anthonychapov/)
-
+---
 ## About Me
 [Jump to About Me Section](#about-me)
 
@@ -19,7 +19,7 @@ I am a junior at UC San Diego, currently taking AI & SE classes and striving to 
   - working out
 
 **My goal** is to become an IT Project/Product Manager, but I am also considering joining the US Marine Corps as an officer if I can't find an entry-level CS job.
-
+---
 ## Skills (Programming languages)
 
 [Jump to Programming Languages Section](#programming-languages-and-skills)
@@ -67,7 +67,7 @@ Here you can find a link to README.md that includes parts of Lab #1:
 [Readme.md](README.md)
  
 
-
+---
 This page includes the following
   - [x] **Headings**
   - [x] Styling text
