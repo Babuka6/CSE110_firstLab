@@ -19,10 +19,12 @@ I am a junior at UC San Diego, currently taking AI & SE classes and striving to 
 **My goal** is to become an IT Project/Product Manager, but I am also considering joining the US Marine Corps as an officer if I can't find an entry-level CS job.
 
 ## Skills (Programming languages)
+
 [Jump to Programming Languages Section](#programming-languages-and-skills)
+
 **My favorite programming language is C++**, and I have a strong preference for it over Python. Why? Well... 
 
-> “Man is sometimes extraordinarily, passionately, in love with suffering...” :joy:
+> “Man is sometimes extraordinarily, passionately, in love with suffering...” 
 > ― Fyodor Dostoevsky
 
 
