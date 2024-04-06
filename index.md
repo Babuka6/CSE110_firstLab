@@ -61,7 +61,7 @@ def emot_detector():
 
 
 
-This page includes the following:
+This page includes the following
   - [x] Headings
   - [x] Styling text
   - [x] Quoting text
@@ -70,5 +70,6 @@ This page includes the following:
   - [x] Section links
   - [x] Relative links
   - [x] Task lists
+- [x] #739
 
 
