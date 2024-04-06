@@ -4,6 +4,8 @@
 
 Hello there! I'm *Anthony Chapov*, a Computer Science Student with a passion for AI technologies and challenging classes.
 
+[View My Picture](myPicture.PNG)
+
 ![Alt text](myPicture.PNG)
 [LinkedIn](https://www.linkedin.com/in/anthonychapov/)
 
