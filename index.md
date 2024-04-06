@@ -5,10 +5,11 @@
 Hello there! I'm *Anthony Chapov*, a Computer Science Student with a passion for AI technologies and challenging classes.
 
 
-![Alt text](myPicture.PNG)
-[LinkedIn](https://www.linkedin.com/in/anthonychapov/)
+![Alt text](myPicture.PNG)  
+[LinkedIn](https://www.linkedin.com/in/anthonychapov/)  
 
-[Jump to About Me Section](#about-me)
+[Jump to About Me Section](#about-me)  
+
 [Jump to Programming Languages Section](#programming-languages-and-skills)
 
 ---
