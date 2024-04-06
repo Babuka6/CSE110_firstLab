@@ -62,8 +62,10 @@ def emot_detector():
 
 ```
 
+---
 Here you can find a link to README.md that includes parts of Lab #1:
-[Link Text](README.md)
+[Readme.md](README.md)
+---
 
 
 
