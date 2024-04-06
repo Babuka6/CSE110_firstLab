@@ -7,9 +7,13 @@ Hello there! I'm *Anthony Chapov*, a Computer Science Student with a passion for
 
 ![Alt text](myPicture.PNG)
 [LinkedIn](https://www.linkedin.com/in/anthonychapov/)
+
+[Jump to About Me Section](#about-me)
+[Jump to Programming Languages Section](#programming-languages-and-skills)
+
 ---
 ## About Me
-[Jump to About Me Section](#about-me)
+
 
 I am a junior at UC San Diego, currently taking AI & SE classes and striving to gain as much project experience as possible. In addition to exploring new AI technologies, **I enjoy**
 
@@ -24,7 +28,7 @@ I am a junior at UC San Diego, currently taking AI & SE classes and striving to 
 ---
 ## Skills (Programming languages)
 
-[Jump to Programming Languages Section](#programming-languages-and-skills)
+
 
 **My favorite programming language is C++**, and I have a strong preference for it over Python. Why? Well... 
 
