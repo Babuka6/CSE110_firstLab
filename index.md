@@ -55,3 +55,21 @@ def emot_detector():
     return (f"For the given statement, the system response is {formatted_scores}. The dominant emotion is {dominant_emotion}.")```
 
 
+
+
+
+
+
+
+
+- [x] This page includes the following:
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links
+- [x] Task lists
+
+
