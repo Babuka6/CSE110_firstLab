@@ -61,15 +61,14 @@ def emot_detector():
 
 
 
-- [ ] Task 1
-- [x] This page includes the following:
-- [x] Headings
-- [x] Styling text
-- [x] Quoting text
-- [x] Quoting code
-- [x] External Links
-- [x] Section links
-- [x] Relative links
-- [x] Task lists
+This page includes the following:
+  - [ ] Headings
+  - [x] Styling text
+  - [x] Quoting text
+  - [x] Quoting code
+  - [x] External Links
+  - [x] Section links
+  - [x] Relative links
+  - [x] Task lists
 
 
