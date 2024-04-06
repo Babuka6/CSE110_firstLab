@@ -15,6 +15,7 @@ I am a junior at UC San Diego, currently taking AI & SE classes and striving to 
 
   - hiking
   - driving fast cars
+  - cooking
   - working out
 
 **My goal** is to become an IT Project/Product Manager, but I am also considering joining the US Marine Corps as an officer if I can't find an entry-level CS job.
