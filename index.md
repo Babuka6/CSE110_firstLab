@@ -62,6 +62,10 @@ def emot_detector():
     return (f"For the given statement, the system response is {formatted_scores}. The dominant emotion is {dominant_emotion}.")```
 ```
 
+---
+Here you can find a link to README.md that includes parts of Lab #1:
+[Readme.md](README.md)
+ 
 
 
 This page includes the following
