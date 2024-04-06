@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! :joy: I'm *Anthony Chapov*, a Computer Science Student with a passion for AI technologies and challenging classes.
+Hello there! I'm *Anthony Chapov*, a Computer Science Student with a passion for AI technologies and challenging classes.
 
 ![Alt text](myPicture.PNG)
 [LinkedIn](https://www.linkedin.com/in/anthonychapov/)
@@ -20,7 +20,7 @@ I am a junior at UC San Diego, currently taking AI & SE classes and striving to 
 
 **My favorite programming language is C++**, and I have a strong preference for it over Python. Why? Well... 
 
-> “Man is sometimes extraordinarily, passionately, in love with suffering...”
+> “Man is sometimes extraordinarily, passionately, in love with suffering...” :joy:
 > ― Fyodor Dostoevsky
 
 
