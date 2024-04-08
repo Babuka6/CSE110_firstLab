@@ -45,7 +45,8 @@ Here is how I would rank **my skill level/experience with different programming 
   4. JS
   5. Python
 
-When it comes to Python, the most complex code I wrote myself would be a Flask server: 
+When it comes to Python, the most complex code I wrote myself would be a Flask server:   
+
 ```app = Flask("Emotion Detector")
 
 @app.route("/emotionDetector")
