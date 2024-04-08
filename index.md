@@ -68,7 +68,7 @@ def emot_detector():
     dominant_emotion = response['dominant_emotion']
 
     # Printing in the specified format
-    return (f"For the given statement, the system response is {formatted_scores}. The dominant emotion is {dominant_emotion}.")```
+    return (f"For the given statement, the system response is {formatted_scores}. The dominant emotion is {dominant_emotion}.")
 ```
 
 ---
