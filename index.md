@@ -47,7 +47,8 @@ Here is how I would rank **my skill level/experience with different programming 
 
 When it comes to Python, the most complex code I wrote myself would be a Flask server:   
 
-```app = Flask("Emotion Detector")
+```
+app = Flask("Emotion Detector")
 
 @app.route("/emotionDetector")
 def emot_detector():
